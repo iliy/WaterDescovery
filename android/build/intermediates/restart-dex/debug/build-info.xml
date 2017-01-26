@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="71303565763659"
+    token="8613056699318352570"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="172" />
+    <task
+        name="instant-run-dex"
+        duration="1225" />
+    <task
+        name="instant-run-transform"
+        duration="36" />
+    <task
+        name="verifier"
+        duration="6" />
+
+    <artifact
+        location="/home/r2d2/GameDev/WaterDescovery/android/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="70455221380577"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/r2d2/GameDev/WaterDescovery/android/build/outputs/apk/android-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="71260099242455"
+        verifier="FIELD_TYPE_CHANGE" >
+        <artifact
+            location="/home/r2d2/GameDev/WaterDescovery/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="71303565763659"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/r2d2/GameDev/WaterDescovery/android/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

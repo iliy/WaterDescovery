@@ -1,0 +1,7 @@
+#Thu Jan 26 10:54:10 VLAT 2017
+base.0=/home/r2d2/GameDev/WaterDescovery/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6db08155e27e1c65679d2e8deab04a338be5f57c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/r2d2/GameDev/WaterDescovery/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_91cdc07bec853a64238639a7ce08348177af052e/classes.dex
+base.1=/home/r2d2/GameDev/WaterDescovery/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_91cdc07bec853a64238639a7ce08348177af052e
+file.0=/home/r2d2/GameDev/WaterDescovery/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6db08155e27e1c65679d2e8deab04a338be5f57c/classes.dex

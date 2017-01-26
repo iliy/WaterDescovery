@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/r2d2/GameDev/WaterDescovery/android/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1fe81c544a80f61382cfad974c709d70023c711c">
+        <dex dex="/home/r2d2/GameDev/WaterDescovery/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_91cdc07bec853a64238639a7ce08348177af052e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/r2d2/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.5/293bbe05bfb5ca812c849e4d1f494f56509d5a6e/gdx-backend-android-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="293bbe05bfb5ca812c849e4d1f494f56509d5a6e">
+        <dex dex="/home/r2d2/GameDev/WaterDescovery/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-backend-android-1.9.5_b32de9e3743db7229bf25be91d74068b5784f9af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/r2d2/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.5/dc65bb2f51828c58b1b2b3ac585357204d54ee5f/gdx-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dc65bb2f51828c58b1b2b3ac585357204d54ee5f">
+        <dex dex="/home/r2d2/GameDev/WaterDescovery/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-1.9.5_5e9be2585dbc906f7530a46812148b2e39d5188b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/r2d2/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.9.5/c8098219abfe00b849cc43d461b1105fea3a2944/gdx-box2d-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c8098219abfe00b849cc43d461b1105fea3a2944">
+        <dex dex="/home/r2d2/GameDev/WaterDescovery/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-box2d-1.9.5_9df4f1aec0ca9f081c978d431148eea1c0e4cec4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/r2d2/GameDev/WaterDescovery/android/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="520509d76edc66865cbbf79c012e252a5a69a765">
+        <dex dex="/home/r2d2/GameDev/WaterDescovery/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6db08155e27e1c65679d2e8deab04a338be5f57c/classes.dex" />
+    </item>
+
+</items>

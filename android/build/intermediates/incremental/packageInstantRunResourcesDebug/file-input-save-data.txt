@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Thu Jan 26 03:48:21 VLAT 2017
+1.base=/home/r2d2/GameDev/WaterDescovery/android/build/intermediates/res/resources-debug.ap_
+1.file=/home/r2d2/GameDev/WaterDescovery/android/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+2.base=/home/r2d2/GameDev/WaterDescovery/android/build/intermediates/res/resources-debug.ap_
+3.set=ASSET
+2.set=ANDROID_RESOURCE
+2.file=/home/r2d2/GameDev/WaterDescovery/android/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/ic_launcher.png
+count=4
+1.set=ANDROID_RESOURCE
+3.base=/home/r2d2/GameDev/WaterDescovery/android/build/intermediates/assets/debug
+0.set=ANDROID_RESOURCE
+0.base=/home/r2d2/GameDev/WaterDescovery/android/build/intermediates/res/resources-debug.ap_
+3.file=/home/r2d2/GameDev/WaterDescovery/android/build/intermediates/assets/debug/badlogic.jpg
+0.file=/home/r2d2/GameDev/WaterDescovery/android/build/intermediates/res/resources-debug.ap_/resources.arsc
