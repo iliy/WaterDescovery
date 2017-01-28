@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
     abi="x86"
-    api-level="23"
+    api-level="24"
     density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="71303565763659"
-    token="8613056699318352570"
-    verifier="COMPATIBLE" >
+    timestamp="52893573503005"
+    token="-522866302493734497"
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="172" />
+        duration="0" />
     <task
         name="instant-run-dex"
-        duration="1225" />
+        duration="0" />
     <task
         name="instant-run-transform"
-        duration="36" />
+        duration="0" />
     <task
         name="verifier"
-        duration="6" />
+        duration="0" />
 
     <artifact
-        location="/home/r2d2/GameDev/WaterDescovery/android/build/intermediates/reload-dex/debug/classes.dex"
-        type="RELOAD_DEX" />
+        location="D:\Dev\GameDev\WaterDescovery\android\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+        type="DEX" />
 
     <build
-        timestamp="70455221380577"
+        timestamp="52612688094101"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/home/r2d2/GameDev/WaterDescovery/android/build/outputs/apk/android-debug.apk"
+            location="D:\Dev\GameDev\WaterDescovery\android\build\outputs\apk\android-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="71260099242455"
-        verifier="FIELD_TYPE_CHANGE" >
+        timestamp="52855780973636"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="/home/r2d2/GameDev/WaterDescovery/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            location="D:\Dev\GameDev\WaterDescovery\android\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
             type="DEX" />
     </build>
     <build
-        timestamp="71303565763659"
-        verifier="COMPATIBLE" >
+        timestamp="52893573503005"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="/home/r2d2/GameDev/WaterDescovery/android/build/intermediates/reload-dex/debug/classes.dex"
-            type="RELOAD_DEX" />
+            location="D:\Dev\GameDev\WaterDescovery\android\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>

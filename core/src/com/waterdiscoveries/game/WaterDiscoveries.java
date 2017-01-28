@@ -10,13 +10,15 @@ import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.badlogic.gdx.scenes.scene2d.Stage;
 import com.waterdiscoveries.game.infrastructure.CustomInputProcessor;
 import com.waterdiscoveries.game.interfaces.IInputListener;
+import com.waterdiscoveries.game.interfaces.ITaskListener;
 import com.waterdiscoveries.game.interfaces.external.IExternalInterface;
 import com.waterdiscoveries.game.screens.TestScreen;
+import com.waterdiscoveries.game.stages.TestLoadedStage;
 import com.waterdiscoveries.game.stages.TestStage;
 
 import java.util.ArrayList;
 
-public class WaterDiscoveries extends Game {
+public class WaterDiscoveries extends Game implements ITaskListener {
 	public static final String TAG = WaterDiscoveries.class.getSimpleName();
 
 	private Stage _currentStage;
@@ -55,11 +57,13 @@ public class WaterDiscoveries extends Game {
 	public void create () {
 		_external.GetLogger().ShowMessage(TAG,"Class was created");
 
-		_currentStage = new TestStage();
+		_currentStage = new TestLoadedStage(this, "Test message");
 
 		Gdx.input.setInputProcessor(CustomInputProcessor.getInstance());
 
 		setCurrentSage(_currentStage);
+
+		((TestLoadedStage)_currentStage).startLoad();
 	}
 
 	@Override
@@ -83,5 +87,14 @@ public class WaterDiscoveries extends Game {
 	public void resize(int width, int height){
 		super.resize(width, height);
 		_external.GetLogger().ShowMessage(TAG, "w:" + width + "; h:" + height);
+	}
+
+	@Override
+	public void TaskComlete(String tag, Object data, String message) {
+		if(tag == null) return;
+
+		_external.GetLogger().ShowMessage(tag, message);
+
+		setCurrentSage(new TestStage());
 	}
 }

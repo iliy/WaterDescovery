@@ -86,9 +86,6 @@ public class TestStage extends Stage implements IInputListener {
 
         GL20 gl = Gdx.graphics.getGL20();
 
-//        gl.glViewport((int) _viewPort.x, (int) _viewPort.y,
-//                (int) _viewPort.width, (int) _viewPort.height); // 4
-
         gl.glViewport((int)_viewPort.x,
                       (int)_viewPort.y,
                       (int)_viewPort.getWidth(),
