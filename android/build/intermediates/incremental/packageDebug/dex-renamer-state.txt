@@ -1,4 +1,4 @@
-#Fri Jan 27 06:23:21 MSK 2017
+#Sun Jan 29 09:37:09 MSK 2017
 base.0=D\:\\Dev\\GameDev\\WaterDescovery\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_15377aec816c792612f91f427892f0fd977c9afb
 renamed.1=classes2.dex
 renamed.0=classes.dex

@@ -16,7 +16,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="c4a5e9ec63c9404b2b6a0ff1ff25ccceff4e9d0c">
+        sha1="f3d995f5f544f157da4880f2d96094fad2536f4c">
         <dex dex="D:\Dev\GameDev\WaterDescovery\android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8540a501f69d551dd808d0d7069f5385ab88697a\classes.dex" />
     </item>
     <item
@@ -25,7 +25,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="8ec63763546786b7c41c211ddf1685135e4a224d">
+        sha1="aeb9b7c2fbc25c7942b8147b5912ee7579bc4dcd">
         <dex dex="D:\Dev\GameDev\WaterDescovery\android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_15377aec816c792612f91f427892f0fd977c9afb\classes.dex" />
     </item>
     <item

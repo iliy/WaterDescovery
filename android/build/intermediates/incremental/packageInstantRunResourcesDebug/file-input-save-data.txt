@@ -1,13 +1,13 @@
 #Internal package file, do not edit.
-#Fri Jan 27 06:22:50 MSK 2017
+#Sun Jan 29 09:36:42 MSK 2017
 1.base=D\:\\Dev\\GameDev\\WaterDescovery\\android\\build\\intermediates\\res\\resources-debug.ap_
 4.file=D\:\\Dev\\GameDev\\WaterDescovery\\android\\build\\intermediates\\assets\\debug\\badlogic.jpg
-1.file=D\:\\Dev\\GameDev\\WaterDescovery\\android\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+1.file=D\:\\Dev\\GameDev\\WaterDescovery\\android\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
 4.set=ASSET
 2.base=D\:\\Dev\\GameDev\\WaterDescovery\\android\\build\\intermediates\\res\\resources-debug.ap_
 3.set=ANDROID_RESOURCE
 2.set=ANDROID_RESOURCE
-2.file=D\:\\Dev\\GameDev\\WaterDescovery\\android\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+2.file=D\:\\Dev\\GameDev\\WaterDescovery\\android\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
 count=5
 1.set=ANDROID_RESOURCE
 3.base=D\:\\Dev\\GameDev\\WaterDescovery\\android\\build\\intermediates\\res\\resources-debug.ap_
